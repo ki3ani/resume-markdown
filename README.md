@@ -2,7 +2,7 @@
 - Location: Nairobi, Kenya
 - Phone: +254701085745
 - Email: kimanim68@gmail.com
-- LinkedIn: [linkedin.com/in/kennethkimani](https://www.linkedin.com/in/kennethkimani)
+- LinkedIn: [linkedin.com/in/kenneth-mungai-129301157](https://www.linkedin.com/in/kenneth-mungai-129301157)
 - GitHub: [github.com/ki3ani](https://github.com/ki3ani)
 - Blog: [dev.to/ki3ani](https://dev.to/ki3ani)
 
@@ -26,10 +26,14 @@ I am a dedicated professional with extensive expertise in cloud computing, speci
 ## Professional Experience
 
 ### Tengeza Studios
-- Backend and Cloud Team Member | March 2020 - Present
+- Backend and Cloud Team Member | May 2020 - Present
   - Spearheaded the migration of systems to AWS cloud, resulting in a 30% reduction in operational costs and improved system scalability.
   - Collaborated with cross-functional teams to develop and deploy Node.js applications, ensuring optimal performance and efficiency.
   - Conducted thorough troubleshooting and resolution of technical issues, ensuring minimal downtime and high availability.
+
+### Farasi Lane Primary School (Internship)
+- Technical Support Engineer | March 2020 - May 2020
+  - Provided technical support and assistance with resolving common IT issues, such as network connectivity problems, software installations, and hardware malfunctions.
 
 ### Gakim Digital (Co-Founder)
 - Cloud Product Developer | March 2023 - Present
@@ -49,9 +53,6 @@ I am a dedicated professional with extensive expertise in cloud computing, speci
 
 ### AWS EKS Deployment
 - Successfully deployed applications on AWS Elastic Kubernetes Service (EKS), showcasing expertise in container orchestration and AWS services.
-
-## Professional Development
-- Attend AWS re:Invent conferences annually to stay updated with the latest cloud technologies and best practices.
 
 ## Languages
 - Fluent in English [Add any other relevant languages]
