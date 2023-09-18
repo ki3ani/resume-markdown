@@ -53,6 +53,3 @@ I am a dedicated professional with extensive expertise in cloud computing, speci
 
 ### AWS EKS Deployment
 - Successfully deployed applications on AWS Elastic Kubernetes Service (EKS), showcasing expertise in container orchestration and AWS services.
-
-## Languages
-- Fluent in English [Add any other relevant languages]
